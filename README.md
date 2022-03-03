@@ -1,7 +1,7 @@
 # THM-GitHappens
 ## Git Happens CTF 🏳️
 
-### Scan the network using NMap
+### 1. Scan the network using NMap
 PORT   STATE SERVICE VERSION
 80/tcp open  http    nginx 1.14.0 (Ubuntu)
 | http-git: 
